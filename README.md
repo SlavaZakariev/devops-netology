@@ -1,4 +1,4 @@
 # devops-netology
 Netology cource
 
-1. Create dir branching and files merge.sh and rebase.sh
+1. prepare for merge and rebase
